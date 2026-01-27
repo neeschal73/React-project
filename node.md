@@ -1,0 +1,1 @@
+what is react? -> reacr is a javascript for a client side application  used to build fast and intractive user interface for web applications.
